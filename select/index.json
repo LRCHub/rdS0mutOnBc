@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ミエナイチカラ 〜INVISIBLE ONE〜",
+  "base_artist": "B'z",
+  "createdAt": "2025-12-01T18:08:35.670127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミエナイチカラ 〜INVISIBLE ONE〜",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_ミエナイチカラ_〜INVISIBLE_ONE〜_B'z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミエナイチカラ -Invisible One-",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/02_ミエナイチカラ_-Invisible_One-_B'z.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミエナイチカラ ~INVISIBLE ONE~",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/03_ミエナイチカラ_~INVISIBLE_ONE~_B'z.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミエナイチカラ 〜INVISIBLE ONE〜",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/04_ミエナイチカラ_〜INVISIBLE_ONE〜_B'z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミエナイチカラ ～INVISIBLE ONE～",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/05_ミエナイチカラ_~INVISIBLE_ONE~_B'z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミエナイチカラ 〜INVISIBLE ONE〜",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/06_ミエナイチカラ_〜INVISIBLE_ONE〜_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミエナイチカラ 〜INVISIBLE ONE〜",
+      "artist": "B’z",
+      "has_synced": false,
+      "path": "select/07_ミエナイチカラ_〜INVISIBLE_ONE〜_B’z.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミエナイチカラ ~INVISIBLE ONE~",
+      "artist": "B’z",
+      "has_synced": false,
+      "path": "select/08_ミエナイチカラ_~INVISIBLE_ONE~_B’z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミエナイチカラ ～INVISIBLE ONE～",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_ミエナイチカラ_~INVISIBLE_ONE~_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミエナイチカラ",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_02_ミエナイチカラ_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ミエナイチカラ ～INVISIBLE ONE～",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_03_ミエナイチカラ_~INVISIBLE_ONE~_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミエナイチカラ ～INVISIBLE ONE～",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_04_ミエナイチカラ_~INVISIBLE_ONE~_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "みえないちから",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_05_みえないちから_B'z.txt"
+    }
+  ]
+}
